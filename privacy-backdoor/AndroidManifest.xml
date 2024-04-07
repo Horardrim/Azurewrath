@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="34" android:compileSdkVersionCodename="14" package="tpxalwef.vcaxlxqu.zvxlnzrv" platformBuildVersionCode="34" platformBuildVersionName="14">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.READ_SMS"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <application android:allowBackup="true" android:dataExtractionRules="@xml/data_extraction_rules" android:extractNativeLibs="false" android:fullBackupContent="@xml/backup_rules" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="tpxalwef.vcaxlxqu.zvxlnzrv.App" android:networkSecurityConfig="@xml/network_security_config" android:roundIcon="@drawable/ic_launcher" android:supportsRtl="true">
+        <activity android:exported="true" android:name="tpxalwef.vcaxlxqu.zvxlnzrv.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Wpxxaa0Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Sqnncb1Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Vdwkoc2Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Oqymld3Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Yutbwe4Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Wzctif5Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Wktxxg6Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Sexcih7Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Jxuqgi8Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Byagvj9Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Uojsck10Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Jlczil11Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Lxehzm12Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Spombn13Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Njruko14Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Ddbqpp15Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Xedtoq16Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Jxqkcr17Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Ngnbgs18Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Iztfyt19Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.apasba0.Xmwegu20Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Sfbeja0Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Abszmb1Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Pdrcdc2Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Qutlud3Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Tzpcfe4Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Aihilf5Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Ziekfg6Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Jfcpfh7Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Ufwzhi8Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Kjldrj9Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Aeyeqk10Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Tkkujl11Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Atyknm12Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Grbqqn13Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Cnmgzo14Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Ntmmfp15Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Sgxvxq16Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Dmprzr17Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Rvnmus18Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Afxwbt19Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.tyjjxb1.Rwqpau20Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Gsssna0Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Cktbbb1Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Vmyvxc2Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Fyamzd3Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Zyksje4Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Tpsktf5Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Eawnng6Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Qavgeh7Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Suexri8Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Mbvowj9Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Aqupxk10Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Lpovml11Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Vmlacm12Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Icmpnn13Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Allpxo14Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Dljwjp15Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Sxnkqq16Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Bvenhr17Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Ugolxs18Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Bmpgdt19Activity"/>
+        <activity android:name="tpxalwef.vcaxlxqu.zvxlnzrv.ozwpoc2.Bubpsu20Activity"/>
+    </application>
+</manifest>
